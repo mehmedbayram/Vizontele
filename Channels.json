@@ -93,7 +93,7 @@
     "linkTV8": "https://tv8.personamedia.tv/tv8hls?fmt=hls",
 	
     "titleMekkeCanli": "",
-    "linkMekkeCanli":"http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
 	
     "titleMedineCanli": "",
     "linkMedineCanli": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
