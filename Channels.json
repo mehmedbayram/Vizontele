@@ -3,7 +3,7 @@
     "linkSwitch": "true",
 	
     "titleATV": "ATV",
-    "linkATV": "https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=aD-afD-c_nWgCwKr_VT3NA&e=1625168098&SessionID=1.3.1139905854.1625122896&StreamGroup=canli-yayin&Site=atv&DeviceGroup=mobil",
+    "linkATV": "http://yayin2.tvizlehd.com/atv.m3u8",
     
     "titleKANALD": "",
     "linkKANALD": "https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8",
@@ -90,7 +90,7 @@
     "linkDIYANET": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?md5=O7AtttlOvbMu846TqEqluA&expires=1616576217&DVR",
 	
     "titleTV8": "",
-    "linkTV8": "https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8",
+    "linkTV8": "http://yayin2.tvizlehd.com/tv8.m3u8",
 	
     "titleMekkeCanli": "",
     "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
