@@ -6,13 +6,13 @@
     "linkATV": "http://yayin2.tvizlehd.com/atv.m3u8",
     
     "titleKANALD": "",
-    "linkKANALD": "https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8",
+    "linkKANALD": "https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8",
 	
     "titleSHOWTV": "",
     "linkSHOWTV": "https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8",
 	
     "titleSTARTV": "",
-    "linkSTARTV": "https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8",
+    "linkSTARTV": "https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8",
 	
     "titleFOXTV": "",
     "linkFOXTV": "https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8",
@@ -24,7 +24,7 @@
     "linkTRT2": "http://tv-trt2.live.trt.com.tr/master_720.m3u8",
 	
     "titleNTV": "",
-    "linkNTV": "https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8",
+    "linkNTV": "https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8",
 	
     "titleBLOOMBERGTVPLUS": "",
     "linkBLOOMBERGTVPLUS": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8",
@@ -45,13 +45,13 @@
     "linkEKOTURK": "https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8",
 	
     "titleBLOOMBERGHT": "",
-    "linkBLOOMBERGHT": "https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8",
+    "linkBLOOMBERGHT": "https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8",
 	
     "titleTLC": "",
     "linkTLC": "https://mn-nl.mncdn.com/blutv_tlc/smil:tlc_sd.smil/playlist.m3u8",
 	
     "titleTV2": "",
-    "linkTV2": "https://blutvlivestream.akamaized.net/hls/live/2024000/defEvent/teve2/master.m3u8",
+    "linkTV2": "https://mn-nl.mncdn.com/blutv_teve2/teve2_sd.smil/playlist.m3u8",
 	
     "titleKANAL7": "",
     "linkKANAL7": "https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8",
@@ -60,16 +60,16 @@
     "linkKANAL24": "https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8",
 	
     "titleHABERTURK": "",
-    "linkHABERTURK": "https://mn-nl.mncdn.com/blutv_haberturk/haberturk_sd.smil/playlist.m3u8",
+    "linkHABERTURK": "https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8",
 	
     "titleCNNTURK": "",
-    "linkCNNTURK": "https://mn-nl.mncdn.com/blutv_cnnturk/cnnturk_sd.smil/playlist.m3u8?dvr",
+    "linkCNNTURK": "https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8",
 	
     "titleTRTHABER": "",
-    "linkTRTHABER": "https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8",
+    "linkTRTHABER": "https://mn-nl.mncdn.com/blutv_trthaber_dvr/live.m3u8",
 	
     "titleTRTBELGESEL": "",
-    "linkTRTBELGESEL": "https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8",
+    "linkTRTBELGESEL": "https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8",
 	
     "titleTRTCOCUK": "",
     "linkTRTCOCUK": "https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8",
