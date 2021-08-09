@@ -72,7 +72,7 @@
     "linkTRTBELGESEL": "https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8",
 	
     "titleTRTCOCUK": "",
-    "linkTRTCOCUK": "https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8",
+    "linkTRTCOCUK": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
 	
     "titleCARTOONNETWORK": "",
     "linkCARTOONNETWORK": "http://yayin2.tvizlehd.com/cartoon.m3u8",
@@ -90,7 +90,7 @@
     "linkDIYANET": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?md5=O7AtttlOvbMu846TqEqluA&expires=1616576217&DVR",
 	
     "titleTV8": "",
-    "linkTV8": "https://stream.hdtvizlecanli.com/tv82.m3u8",
+    "linkTV8": "https://mn-nl.mncdn.com/blutv_tv8_5/tv8_5_sd.smil/playlist.m3u8",
 	
     "titleMekkeCanli": "",
     "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
