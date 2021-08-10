@@ -15,7 +15,7 @@
     "linkSTARTV": "https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8",
 	
     "titleFOXTV": "",
-    "linkFOXTV": "https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8",
+    "linkFOXTV": "https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8",
 	
     "titleTRT1": "",
     "linkTRT1": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
@@ -48,7 +48,7 @@
     "linkBLOOMBERGHT": "https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8",
 	
     "titleTLC": "",
-    "linkTLC": "https://mn-nl.mncdn.com/blutv_tlc/smil:tlc_sd.smil/playlist.m3u8",
+    "linkTLC": "https://mn-nl.mncdn.com/blutv_tlc_dvr/live.m3u8",
 	
     "titleTV2": "",
     "linkTV2": "https://mn-nl.mncdn.com/blutv_teve2/teve2_sd.smil/playlist.m3u8",
@@ -72,7 +72,7 @@
     "linkTRTBELGESEL": "https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8",
 	
     "titleTRTCOCUK": "",
-    "linkTRTCOCUK": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+    "linkTRTCOCUK": "https://mn-nl.mncdn.com/blutv_trtcocuk_dvr/live.m3u8",
 	
     "titleCARTOONNETWORK": "",
     "linkCARTOONNETWORK": "http://yayin2.tvizlehd.com/cartoon.m3u8",
