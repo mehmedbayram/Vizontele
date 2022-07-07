@@ -6,25 +6,25 @@
     "linkATV": "https://trkvz-live.daioncdn.net/atv/atv.m3u8",
     
     "titleKANALD": "",
-    "linkKANALD": "https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8",
+    "linkKANALD": "https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleSHOWTV": "",
-    "linkSHOWTV": "https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8",
+    "linkSHOWTV": "https://kanalddvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleSTARTV": "",
     "linkSTARTV": "https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleFOXTV": "",
-    "linkFOXTV": "https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8",
+    "linkFOXTV": "https://kanalddvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleTRT1": "",
-    "linkTRT1": "https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8",
+    "linkTRT1": "https://kanalddvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8",
 
     "titleTRT2": "",
     "linkTRT2": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
 	
     "titleNTV": "",
-    "linkNTV": "https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8",
+    "linkNTV": "https://kanalddvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleBLOOMBERGTVPLUS": "",
     "linkBLOOMBERGTVPLUS": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8",
@@ -48,10 +48,10 @@
     "linkBLOOMBERGHT": "https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8",
 	
     "titleTLC": "",
-    "linkTLC": "https://mn-nl.mncdn.com/blutv_tlc_dvr/live.m3u8",
+    "linkTLC": "https://kanalddvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleTV2": "",
-    "linkTV2": "https://mn-nl.mncdn.com/blutv_teve22/live.m3u8",
+    "linkTV2": "https://kanalddvr.blutv.com/blutv_teve2_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleKANAL7": "",
     "linkKANAL7": "https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8",
@@ -60,10 +60,10 @@
     "linkKANAL24": "https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8",
 	
     "titleHABERTURK": "",
-    "linkHABERTURK": "https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8",
+    "linkHABERTURK": "https://kanalddvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleCNNTURK": "",
-    "linkCNNTURK": "https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8",
+    "linkCNNTURK": "https://kanalddvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleTRTHABER": "",
     "linkTRTHABER": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
