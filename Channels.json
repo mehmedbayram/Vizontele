@@ -12,7 +12,7 @@
     "linkSHOWTV": "https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8",
 	
     "titleSTARTV": "",
-    "linkSTARTV": "https://www.blutv.com/canli-yayin/star-tv-izle",
+    "linkSTARTV": "https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleFOXTV": "",
     "linkFOXTV": "https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8",
