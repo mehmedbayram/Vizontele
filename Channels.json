@@ -57,7 +57,7 @@
     "linkKANAL7": "https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8",
 	
     "titleKANAL24": "",
-    "linkKANAL24": "https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8",
+    "linkKANAL24": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
 	
     "titleHABERTURK": "",
     "linkHABERTURK": "https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8",
