@@ -75,10 +75,10 @@
     "linkTRTCOCUK": "https://mn-nl.mncdn.com/blutv_trtcocuk_dvr/live.m3u8",
 	
     "titleCARTOONNETWORK": "",
-    "linkCARTOONNETWORK": "http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8",
+    "linkCARTOONNETWORK": "http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8",
 	
     "titleMINIKACOCUK": "",
-    "linkMINIKACOCUK": "http://mugla.tvizlehd.com/live/minikacocuk.m3u8",
+    "linkMINIKACOCUK": "http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8",
 	
     "titleMINIKAGO": "",
     "linkMINIKAGO": "http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8",
