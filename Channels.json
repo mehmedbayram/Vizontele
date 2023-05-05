@@ -93,10 +93,10 @@
     "linkTV8": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
 	
     "titleMekkeCanli": "",
-    "linkMekkeCanli": "https://edge.taghtia.com/sa/7.m3u8",
+    "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
 	
     "titleMedineCanli": "",
-    "linkMedineCanli": "https://edge.taghtia.com/sa/6.m3u8",
+    "linkMedineCanli": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
 	
     "titleULKETV": "",
     "linkULKETV": "https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8",	
