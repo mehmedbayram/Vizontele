@@ -3,7 +3,7 @@
     "linkSwitch": "true",
 	
     "titleATV": "ATV",
-    "linkATV": "https://trkvz-beta.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&st=HeBEeEEJ0IesRNcj-1TC7w&e=1684525004&dfp_paln=AQzzBGQEwW7eiyXJx5zYOL9VTU8aHOhG3mBAszy4YwErW_uMwIP84ZWlfOOhtw0Mnd6so9bDx3MLwx96tgYJXHoGD1V3T1anRW0LllmLHwOJpHT7xTER194qiiecQsNEOFRz3BNDL9vAANg4xuMgerrjWUoZ7gMUUxNEmdDWHTMB2kRH1fuZkRilBJCLgE2K-4_lo5atYS1mBC1XZVjZo5OX8653paX1gP6mfS3BMntu5Rq07icBXizGkAEEQ8A0DXt9tbsPD4XlbCv4PJCk8i3hBSA0ucErm_chMNRb6CQXiiO_8P5N-cQEXFN6YdOl9n8kGmXwfgE2x45OhTZU_vefhomlZv778qDZFFe0mxc5bSKWjMF-3SYTavf379Bpv1tLEu9cdcuQ8zOpFD0m6V2h9Wqg7BdJjsKmUNgLKGztR5lOEAjYMMF9FuJHNzmCjQhfWS28eQBwkWg8NH9L-RZmSAvQNgXgsIekLD7iWtYhc3_nIOaVh7sCMMdu-Yqxmk11VSExOCvyLI-WT9Kz4zsWWnxQiEQ3Vitfq8xHOtB9E3lw9COcf3VPsCdKCs3vwGen0QeCyA4_jaEFQrhq5_8uGDAlXBalODOXq1gOhZfU7IcxcuySjSHUVr8dK1gON7cMSkP5E6_VqHbh6iyxKRrVvtT9DJFTWPGyu4wyy5LcqOgcYO1PTqg2TCVI7OQyYdciCp2CychWGkejb4rv4taEuqexs9PSA6JfHCPL1twt4T8gvZY50s26l_-H4F0NneXG05QcqJVBHAuuM3SlDIJrhlBLI80rUrCIcIe2VjP2_plrLf3-6uLhGYA4-3fkVXYstaorF5MvgeKDesJazSVE_zaFujdaDXR8S37QcUWA0L8N2Hq7p9vJ8UEfP8eVzsaGQWcbaAulgSYUscKJXWhGDrISG2xpvNxFmFjY9QbZ7k-X0LvBUxSHNZ9h99RU3ND7jSdQy9D0GfW2RIU-OEH9kaZDkk3pV11hYQBfLq57DGE8aar8_zBhsAgVUe0allJQJhZ_bsn8P9xFUwaCLYaq_QGwPJtCU6rJ-4Ct0--7FGfjAr9O2_OILkEAF2RnOluB2akW49DdBoeNrEv7N5CI4O8VC0L4nD5-Xu50tBhOEqvmxSzLEnbp5RkJEOT_3OoHzHgF3ahC8ZV7j3hst6Y.&gdpr=0&sid=5ep0wzyqtlkj&sig=8a91b8f8acafa90c2bbc089c5f9cd356",
+    "linkATV": "https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1692611007&st=Ix6HFv1Pa2hOFzSsu8TMdg&sid=5nyyu37tm8cw&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3",
     
     "titleKANALD": "",
     "linkKANALD": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
@@ -12,7 +12,7 @@
     "linkSHOWTV": "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleSTARTV": "",
-    "linkSTARTV": "https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8",
+    "linkSTARTV": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5nyy84k4lyx2&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
 	
     "titleFOXTV": "",
     "linkFOXTV": "https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8",
@@ -24,7 +24,7 @@
     "linkTRT2": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
 	
     "titleNTV": "",
-    "linkNTV": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&dfp_paln=AQzzBGQElis8Bv5GiVm0K9_Ns8IzKuUb9dS_xHXtDBxdhWRmGkRlHR7RFYEA2V5U3fmWj2Y2DDr4cB9k4oQuksx6KTYc8BniiN0DF5fiYSyI9DmXJVhTMSV3gi76H-68Z4NKZO_fd7KEhmVJdr0IL7oZRRbAyj9ySJ2B6Tn45fhwXz539qs7v1FiGN13R4JP6UvXgLsMpYIK6rdRR4-kJu8lTR-bUZWEDb8L2kdBNVk_WfPbCB0fOlZ2t_gFySIkgzDflASF3h4sdOCWWzzzGuCwxJLZfhXgUe6rJickyMHqWoo0L2OCw-oZuZ18al714CTW-B9GOezde2St6HUwmonUfD3Y7IIrG5r8-of53WB93TF2TMdS8OZZPwHAs_mWMkGH9wQ6_mF5U6dIFfdVNyIvlPRd8SrSls8qO1gZKtoixq9Y_vErKxXkETYtmY-N-RoX1Ilcp3NSHt4Hiw3o1-upNDe2U4-AKShwvPqX1CYlkEJEwqsYNZ4WTeHOYpjvv08VP6YvLNBSubhnSm9FFdTcIr86GtB-pT-mpO32embCPqkDgNS1cr7EYBn4v7YhBRu1VOgMZryZD4eRQ3d1e_5EoMtG7wGu9brDIUXt8siWHqZ9W1GIR-u6x6ETUfBSUkil8ParT8GEICvRmzodsz-t13TYVwE5b2-zmjRWGucuU3MTPLHC_-uWP6PoH83zBvrWFj3PNdNp8vAiV5oA5Qd9rhcVehyUkzBog6sVoiI6xBtMiq8YDvF4Q1jeBH_aECAtbiKo85exvz_CU9r56lz-tE-yHPEMV0bb-wPHRYwevwd1WGJgtcjITcdlh0-H3iavJqjIZf1FUwQXk3g_1ZMGfJMb389PMwxbdtkFIee4hOtEYuzxwY3ROH7t-adprvSxJEu0vheX9PvyPzVL65cwVoAuBbvPr8unDgRBkDVsnR0sNOagJJsYBzHu8ldzh0UdRv5JXczoP6Zm4TmdbwbpzTM-YBFjnvKqora_up4n2c0DU-_PyD5ZVqYwnX-JwhPZ3Rkqg7JTh6-Yy_l4bXm9xbYxJkCCq-hsjj5jCCyPAW0R6lmwwPPN_tFI3oqWWJ9SAC3owsDRnNtyHWIqaC8hLoogTZtnHv7Z8Tc.&sid=5l6otclwisqu&sig=7cdd3c3174449d10fc47e497c413da6f",
+    "linkNTV": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8",
 	
     "titleBLOOMBERGTVPLUS": "",
     "linkBLOOMBERGTVPLUS": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
@@ -42,10 +42,10 @@
     "linkSKYNEWSUK": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd30.m3u8",
 	
     "titleEKOTURK": "",
-    "linkEKOTURK": "https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8",
+    "linkEKOTURK": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8",
 	
     "titleBLOOMBERGHT": "",
-    "linkBLOOMBERGHT": "https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8",
+    "linkBLOOMBERGHT": "https://bloomberght.blutv.com/blutv_bloomberght_dvr/live.m3u8",
 	
     "titleTLC": "",
     "linkTLC": "https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8",
