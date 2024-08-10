@@ -63,7 +63,7 @@
     "linkHABERTURK": "https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8",
 	
     "titleCNNTURK": "",
-    "linkCNNTURK": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+    "linkCNNTURK": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=mBXSD5z884a0B_bZdiqelg&e=1723306388",
 	
     "titleTRTHABER": "",
     "linkTRTHABER": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
