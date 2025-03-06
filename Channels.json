@@ -69,7 +69,7 @@
     "linkTRTHABER": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
 	
     "titleTRTBELGESEL": "",
-    "linkTRTBELGESEL": "https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8",
+    "linkTRTBELGESEL": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
 	
     "titleTRTCOCUK": "",
     "linkTRTCOCUK": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
@@ -111,6 +111,6 @@
     "linkEURONEWS": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8",
 	
     "titleTRTWORLD": "",
-    "linkTRTWORLD": "https://tv-trtworld.live.trt.com.tr/master.m3u8"
+    "linkTRTWORLD": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
 
 }
