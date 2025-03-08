@@ -12,7 +12,7 @@
     "linkSHOWTV": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
 	
     "titleSTARTV": "",
-    "linkSTARTV": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5nyy84k4lyx2&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
+    "linkSTARTV": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
 	
     "titleFOXTV": "",
     "linkFOXTV": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=mGjGM7GSIDAmaouOddeMhA&e=1741332077",
