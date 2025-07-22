@@ -5,112 +5,112 @@
     "titleATV": "ATV",
     "linkATV": "https://trkvz-live.daioncdn.net/atv/atv.m3u8",
     
-    "titleKANALD": "KANAL D",
+    "titleKANALD": "KANALD",
     "linkKANALD": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
 	
-    "titleSHOWTV": "",
+    "titleSHOWTV": "SHOWTV",
     "linkSHOWTV": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
 	
-    "titleSTARTV": "",
+    "titleSTARTV": "STAR",
     "linkSTARTV": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
 	
-    "titleFOXTV": "",
+    "titleFOXTV": "FOX",
     "linkFOXTV": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=mGjGM7GSIDAmaouOddeMhA&e=1741332077",
 	
-    "titleTRT1": "",
+    "titleTRT1": "TRT1",
     "linkTRT1": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
 
-    "titleTRT2": "",
+    "titleTRT2": "TRT2",
     "linkTRT2": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
 	
-    "titleNTV": "",
+    "titleNTV": "NTV",
     "linkNTV": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8",
 	
-    "titleBLOOMBERGTVPLUS": "",
+    "titleBLOOMBERGTVPLUS": "BLOOMBERGTVPLUS",
     "linkBLOOMBERGTVPLUS": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
 	
-    "titleFOXNEWS": "",
+    "titleFOXNEWS": "FOXNEWS",
     "linkFOXNEWS": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
 	
-    "titleBBCNOW": "",
+    "titleBBCNOW": "BBCNOW",
     "linkBBCNOW": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8",
 	
-    "titleCNNINTERNATIONAL": "",
+    "titleCNNINTERNATIONAL": "CNNINTERNATIONAL",
     "linkCNNINTERNATIONAL": "https://wturnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
 	
-    "titleSKYNEWSUK": "",
+    "titleSKYNEWSUK": "SKYNEWSUK",
     "linkSKYNEWSUK": "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd30.m3u8",
 	
-    "titleEKOTURK": "",
+    "titleEKOTURK": "EKOTÜRK",
     "linkEKOTURK": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8",
 	
-    "titleBLOOMBERGHT": "",
+    "titleBLOOMBERGHT": "BLOOMBERGHT",
     "linkBLOOMBERGHT": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
 	
-    "titleTLC": "",
+    "titleTLC": "TLC",
     "linkTLC": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
 	
-    "titleTV2": "",
+    "titleTV2": "TV2",
     "linkTV2": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
 	
-    "titleKANAL7": "",
+    "titleKANAL7": "KANAL7",
     "linkKANAL7": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
 	
-    "titleKANAL24": "",
+    "titleKANAL24": "KANAL24",
     "linkKANAL24": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
 	
-    "titleHABERTURK": "",
+    "titleHABERTURK": "HABERTÜRK",
     "linkHABERTURK": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
 	
-    "titleCNNTURK": "",
+    "titleCNNTURK": "CNNTURK",
     "linkCNNTURK": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=mBXSD5z884a0B_bZdiqelg&e=1723306388",
 	
-    "titleTRTHABER": "",
+    "titleTRTHABER": "TRTHABER",
     "linkTRTHABER": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
 	
-    "titleTRTBELGESEL": "",
+    "titleTRTBELGESEL": "TRTBELGESEL",
     "linkTRTBELGESEL": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
 	
-    "titleTRTCOCUK": "",
+    "titleTRTCOCUK": "TRTÇOCUK",
     "linkTRTCOCUK": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
 	
-    "titleCARTOONNETWORK": "",
+    "titleCARTOONNETWORK": "CARTOONNETWORK",
     "linkCARTOONNETWORK": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
 	
-    "titleMINIKACOCUK": "",
+    "titleMINIKACOCUK": "MİNİKAÇOCUK",
     "linkMINIKACOCUK": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
 	
-    "titleMINIKAGO": "",
+    "titleMINIKAGO": "MİNİKAGO",
     "linkMINIKAGO": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
 	
-    "titleEBA": "",
+    "titleEBA": "EBA",
     "linkEBA": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
 	
-    "titleDIYANET": "",
+    "titleDIYANET": "TRTDİYANET",
     "linkDIYANET": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
 	
-    "titleTV8": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
+    "titleTV8": "TV8",
     "linkTV8": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
 	
-    "titleMekkeCanli": "",
+    "titleMekkeCanli": "MEKKECANLI",
     "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
 	
-    "titleMedineCanli": "",
+    "titleMedineCanli": "MEDİNECANLI",
     "linkMedineCanli": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
 	
-    "titleULKETV": "",
+    "titleULKETV": "ÜLKETV",
     "linkULKETV": "https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8",	
 	
-    "titleTVNET": "",
+    "titleTVNET": "TVNET",
     "linkTVNET": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
 	
-    "titleAMERICASVOICE": "",
+    "titleAMERICASVOICE": "AMERICASVOICE",
     "linkAMERICASVOICE": "https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8",
 	
-    "titleEURONEWS": "",
+    "titleEURONEWS": "EURONEWS",
     "linkEURONEWS": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8",
 	
-    "titleTRTWORLD": "",
+    "titleTRTWORLD": "TRTWORLD",
     "linkTRTWORLD": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
 
 }
