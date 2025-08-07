@@ -104,27 +104,27 @@
     
     "titleCNNTURK": "ID_CNNTURK",
     "linkCNNTURK": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=mBXSD5z884a0B_bZdiqelg&e=1723306388",
-    "linkYayinAkisiCNNTURK": "",
+    "linkYayinAkisiCNNTURK": "https://www.cnnturk.com/yayin-akisi",
     "linkWatchOriginalCNNTURK": "",
     
     "titleTRTHABER": "ID_TRTHABER",
     "linkTRTHABER": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiTRTHABER": "",
+    "linkYayinAkisiTRTHABER": "https://www.trthaber.com/yayin-akisi.html",
     "linkWatchOriginalTRTHABER": "",
     
     "titleTRTBELGESEL": "ID_TRTBELGESEL",
     "linkTRTBELGESEL": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiTRTBELGESEL": "",
+    "linkYayinAkisiTRTBELGESEL": "https://www.trtbelgesel.com.tr/",
     "linkWatchOriginalTRTBELGESEL": "",
     
     "titleTRTCOCUK": "ID_TRTÇOCUK",
     "linkTRTCOCUK": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiTRTCOCUK": "",
+    "linkYayinAkisiTRTCOCUK": "https://www.trtcocuk.net.tr/yayin-akisi/",
     "linkWatchOriginalTRTCOCUK": "",
     
     "titleCARTOONNETWORK": "ID_CARTOONNETWORK",
     "linkCARTOONNETWORK": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
-    "linkYayinAkisiCARTOONNETWORK": "",
+    "linkYayinAkisiCARTOONNETWORK": "https://www.cartoonnetwork.com.tr/",
     "linkWatchOriginalCARTOONNETWORK": "",
     
     "titleMINIKACOCUK": "ID_MİNİKAÇOCUK",
@@ -139,17 +139,17 @@
     
     "titleEBA": "ID_EBA",
     "linkEBA": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiEBA": "",
+    "linkYayinAkisiEBA": "https://www.trt.net.tr/televizyon/akis.aspx?kanal=trt-eba-ortaokul&gun=0",
     "linkWatchOriginalEBA": "",
     
     "titleDIYANET": "ID_TRTDİYANET",
     "linkDIYANET": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
-    "linkYayinAkisiDIYANET": "",
+    "linkYayinAkisiDIYANET": "https://www.diyanet.tv/yayin-akisi",
     "linkWatchOriginalDIYANET": "",
     
     "titleTV8": "ID_TV8",
     "linkTV8": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiTV8": "",
+    "linkYayinAkisiTV8": "https://www.tv8.com.tr/yayin-akisi",
     "linkWatchOriginalTV8": "",
     
     "titleMekkeCanli": "ID_MEKKECANLI",
@@ -164,26 +164,26 @@
     
     "titleULKETV": "ID_ÜLKETV",
     "linkULKETV": "https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8",
-    "linkYayinAkisiULKETV": "",
+    "linkYayinAkisiULKETV": "https://www.ulketv.com.tr/yayin-akisi",
     "linkWatchOriginalULKETV": "",
     
     "titleTVNET": "ID_TVNET",
     "linkTVNET": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
-    "linkYayinAkisiTVNET": "",
+    "linkYayinAkisiTVNET": "https://www.tvnet.com.tr/yayin-akisi",
     "linkWatchOriginalTVNET": "",
     
     "titleAMERICASVOICE": "ID_AMERICASVOICE",
     "linkAMERICASVOICE": "https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8",
-    "linkYayinAkisiAMERICASVOICE": "",
+    "linkYayinAkisiAMERICASVOICE": "https://americasvoice.news/",
     "linkWatchOriginalAMERICASVOICE": "",
     
     "titleEURONEWS": "ID_EURONEWS",
     "linkEURONEWS": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8",
-    "linkYayinAkisiEURONEWS": "",
+    "linkYayinAkisiEURONEWS": "https://www.euronews.com/",
     "linkWatchOriginalEURONEWS": "",
     
     "titleTRTWORLD": "ID_TRTWORLD",
     "linkTRTWORLD": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiTRTWORLD": "",
+    "linkYayinAkisiTRTWORLD": "https://www.trtworld.com/tv-schedule",
     "linkWatchOriginalTRTWORLD": ""
 }
