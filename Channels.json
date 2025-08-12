@@ -110,12 +110,12 @@
     "titleTRTHABER": "ID_TRTHABER",
     "linkTRTHABER": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
     "linkYayinAkisiTRTHABER": "https://www.trthaber.com/yayin-akisi.html",
-    "linkWatchOriginalTRTHABER": "",
+    "linkWatchOriginalTRTHABER": "https://www.trthaber.com/canli-yayin-izle.html",
     
     "titleTRTBELGESEL": "ID_TRTBELGESEL",
     "linkTRTBELGESEL": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
     "linkYayinAkisiTRTBELGESEL": "https://www.trtbelgesel.com.tr/",
-    "linkWatchOriginalTRTBELGESEL": "",
+    "linkWatchOriginalTRTBELGESEL": "https://www.tabii.com/watch/live/trtbelgesel",
     
     "titleTRTCOCUK": "ID_TRTÇOCUK",
     "linkTRTCOCUK": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
