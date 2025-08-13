@@ -178,9 +178,9 @@
     "linkWatchOriginalAMERICASVOICE": "",
     
     "titleEURONEWS": "ID_EURONEWS",
-    "linkEURONEWS": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8",
+    "linkEURONEWS": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8",
     "linkYayinAkisiEURONEWS": "https://www.euronews.com/",
-    "linkWatchOriginalEURONEWS": "",
+    "linkWatchOriginalEURONEWS": "https://www.euronews.com/live",
     
     "titleTRTWORLD": "ID_TRTWORLD",
     "linkTRTWORLD": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
