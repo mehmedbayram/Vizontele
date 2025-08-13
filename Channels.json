@@ -53,7 +53,7 @@
     "linkWatchOriginalFOXNEWS": "https://www.livenowfox.com/live",
     
     "titleBBCNOW": "ID_BBCNOW",
-    "linkBBCNOW": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8",
+    "linkBBCNOW": "https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
     "linkYayinAkisiBBCNOW": "",
     "linkWatchOriginalBBCNOW": "",
     
@@ -163,14 +163,14 @@
     "linkWatchOriginalMedineCanli": "",
     
     "titleULKETV": "ID_ÜLKETV",
-    "linkULKETV": "https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8",
+    "linkULKETV": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
     "linkYayinAkisiULKETV": "https://www.ulketv.com.tr/yayin-akisi",
     "linkWatchOriginalULKETV": "https://www.ulketv.com/ulke-tv-canli-yayin",
     
     "titleTVNET": "ID_TVNET",
     "linkTVNET": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
     "linkYayinAkisiTVNET": "https://www.tvnet.com.tr/yayin-akisi",
-    "linkWatchOriginalTVNET": "",
+    "linkWatchOriginalTVNET": "https://www.tvnet.com.tr/canli-yayin",
     
     "titleAMERICASVOICE": "ID_AMERICASVOICE",
     "linkAMERICASVOICE": "https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8",
@@ -184,6 +184,6 @@
     
     "titleTRTWORLD": "ID_TRTWORLD",
     "linkTRTWORLD": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiTRTWORLD": "https://www.trtworld.com/tv-schedule",
-    "linkWatchOriginalTRTWORLD": ""
+    "linkYayinAkisiTRTWORLD": "https://trt.global/world/tv-schedule",
+    "linkWatchOriginalTRTWORLD": "https://trt.global/"
 }
