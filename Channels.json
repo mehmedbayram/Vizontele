@@ -120,12 +120,12 @@
     "titleTRTCOCUK": "ID_TRTÇOCUK",
     "linkTRTCOCUK": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "linkYayinAkisiTRTCOCUK": "https://www.trtcocuk.net.tr/yayin-akisi/",
-    "linkWatchOriginalTRTCOCUK": "",
+    "linkWatchOriginalTRTCOCUK": "https://www.trtcocuk.net.tr/canli-yayin",
     
     "titleCARTOONNETWORK": "ID_CARTOONNETWORK",
     "linkCARTOONNETWORK": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
     "linkYayinAkisiCARTOONNETWORK": "https://www.cartoonnetwork.com.tr/",
-    "linkWatchOriginalCARTOONNETWORK": "",
+    "linkWatchOriginalCARTOONNETWORK": "https://www.youtube.com/live/gj_mfXpuXWw?si=vNmsrDztazjimpIy",
     
     "titleMINIKACOCUK": "ID_MİNİKAÇOCUK",
     "linkMINIKACOCUK": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
@@ -140,17 +140,17 @@
     "titleEBA": "ID_EBA",
     "linkEBA": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
     "linkYayinAkisiEBA": "https://www.trt.net.tr/televizyon/akis.aspx?kanal=trt-eba-ortaokul&gun=0",
-    "linkWatchOriginalEBA": "",
+    "linkWatchOriginalEBA": "https://www.tabii.com/tr/watch/live/trteba",
     
     "titleDIYANET": "ID_TRTDİYANET",
     "linkDIYANET": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
     "linkYayinAkisiDIYANET": "https://www.diyanet.tv/yayin-akisi",
-    "linkWatchOriginalDIYANET": "",
+    "linkWatchOriginalDIYANET": "https://diyanet.tv/canli-izle",
     
     "titleTV8": "ID_TV8",
-    "linkTV8": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "linkTV8": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
     "linkYayinAkisiTV8": "https://www.tv8.com.tr/yayin-akisi",
-    "linkWatchOriginalTV8": "",
+    "linkWatchOriginalTV8": "https://www.tv8.com.tr/canli-yayin",
     
     "titleMekkeCanli": "ID_MEKKECANLI",
     "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
@@ -165,7 +165,7 @@
     "titleULKETV": "ID_ÜLKETV",
     "linkULKETV": "https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8",
     "linkYayinAkisiULKETV": "https://www.ulketv.com.tr/yayin-akisi",
-    "linkWatchOriginalULKETV": "",
+    "linkWatchOriginalULKETV": "https://www.ulketv.com/ulke-tv-canli-yayin",
     
     "titleTVNET": "ID_TVNET",
     "linkTVNET": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
