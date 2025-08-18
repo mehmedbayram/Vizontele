@@ -159,13 +159,13 @@
     
     "titleMekkeCanli": "ID_MEKKECANLI",
     "linkMekkeCanli": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
-    "linkYayinAkisiMekkeCanli": "",
-    "linkWatchOriginalMekkeCanli": "",
+    "linkYayinAkisiMekkeCanli": "https://aloula.sba.sa/en/live/qurantvsa",
+    "linkWatchOriginalMekkeCanli": "https://aloula.sba.sa/en/live/qurantvsa",
     
     "titleMedineCanli": "ID_MEDİNECANLI",
     "linkMedineCanli": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "linkYayinAkisiMedineCanli": "",
-    "linkWatchOriginalMedineCanli": "",
+    "linkYayinAkisiMedineCanli": "https://aloula.sba.sa/en/live/sunnatvsa",
+    "linkWatchOriginalMedineCanli": "https://aloula.sba.sa/en/live/sunnatvsa",
     
     "titleULKETV": "ID_ÜLKETV",
     "linkULKETV": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
