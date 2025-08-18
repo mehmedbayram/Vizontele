@@ -121,6 +121,11 @@
     "linkTRTCOCUK": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "linkYayinAkisiTRTCOCUK": "https://www.trtcocuk.net.tr/yayin-akisi/",
     "linkWatchOriginalTRTCOCUK": "https://www.trtcocuk.net.tr/canli-yayin",
+
+    "titleTRTCOCUKDIYANET": "ID_TRTÇOCUKDİYANET",
+    "linkTRTCOCUKDIYANET": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+    "linkYayinAkisiTRTCOCUKDIYANET": "https://www.trtdiyanetcocuk.net.tr",
+    "linkWatchOriginalTRTCOCUKDIYANET": "https://www.trtdiyanetcocuk.net.tr",
     
     "titleCARTOONNETWORK": "ID_CARTOONNETWORK",
     "linkCARTOONNETWORK": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
