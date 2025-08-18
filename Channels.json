@@ -190,5 +190,20 @@
     "titleTRTWORLD": "ID_TRTWORLD",
     "linkTRTWORLD": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "linkYayinAkisiTRTWORLD": "https://trt.global/world/tv-schedule",
-    "linkWatchOriginalTRTWORLD": "https://trt.global/"
+    "linkWatchOriginalTRTWORLD": "https://trt.global/",
+
+    "titleTRTSPOR": "ID_TRTSPOR",
+    "linkTRTSPOR": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "linkYayinAkisiTRTSPOR": "https://www.trtspor.com.tr/yayin-akisi/trt-spor",
+    "linkWatchOriginalTRTSPOR": "https://www.trtspor.com.tr/canli-yayin-izle/trt-spor",
+
+    "titleHTSPOR": "ID_HTSPOR",
+    "linkHTSPOR": "",
+    "linkYayinAkisiHTSPOR": "https://tv.htspor.com/yayin-akisi",
+    "linkWatchOriginalHTSPOR": "https://www.htspor.com/canli-yayin",
+
+    "titleBEINSPORTSHABER": "ID_BEINSPORTSHABER",
+    "linkBEINSPORTSHABER": "",
+    "linkYayinAkisiBEINSPORTSHABER": "https://beinsports.com.tr/yayin-akisi/bein-sports-haber",
+    "linkWatchOriginalBEINSPORTSHABER": "https://beinsports.com.tr/canli-yayin"
 }
