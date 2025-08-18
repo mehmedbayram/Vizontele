@@ -128,14 +128,14 @@
     "linkWatchOriginalCARTOONNETWORK": "https://www.youtube.com/live/gj_mfXpuXWw?si=vNmsrDztazjimpIy",
     
     "titleMINIKACOCUK": "ID_MİNİKAÇOCUK",
-    "linkMINIKACOCUK": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiMINIKACOCUK": "",
-    "linkWatchOriginalMINIKACOCUK": "",
+    "linkMINIKACOCUK": "",
+    "linkYayinAkisiMINIKACOCUK": "https://www.minikago.com.tr/yayin-akisi",
+    "linkWatchOriginalMINIKACOCUK": "https://www.minikacocuk.com.tr/webtv/canli-yayin",
     
     "titleMINIKAGO": "ID_MİNİKAGO",
-    "linkMINIKAGO": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
-    "linkYayinAkisiMINIKAGO": "",
-    "linkWatchOriginalMINIKAGO": "",
+    "linkMINIKAGO": "",
+    "linkYayinAkisiMINIKAGO": "https://www.minikago.com.tr/yayin-akisi",
+    "linkWatchOriginalMINIKAGO": "https://www.minikago.com.tr/webtv/canli-yayin",
     
     "titleEBA": "ID_EBA",
     "linkEBA": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
