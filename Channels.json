@@ -205,5 +205,45 @@
     "titleBEINSPORTSHABER": "ID_BEINSPORTSHABER",
     "linkBEINSPORTSHABER": "",
     "linkYayinAkisiBEINSPORTSHABER": "https://beinsports.com.tr/yayin-akisi/bein-sports-haber",
-    "linkWatchOriginalBEINSPORTSHABER": "https://beinsports.com.tr/canli-yayin"
+    "linkWatchOriginalBEINSPORTSHABER": "https://beinsports.com.tr/canli-yayin",
+
+    "titleRADYOVOYAGE": "ID_RADYOVOYAGE",
+    "linkRADYOVOYAGE": "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8 ",
+    "linkYayinAkisiRADYOVOYAGE": "https://radyovoyage.com/#cstLast12HoursVyg",
+    "linkWatchOriginalRADYOVOYAGE": "https://radyovoyage.com/",
+
+    "titleKRALFM": "ID_KRALFM",
+    "linkKRALFM": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
+    "linkYayinAkisiKRALFM": "https://www.kralmuzik.com.tr/yayin-akisi",
+    "linkWatchOriginalKRALFM": "https://www.kralmuzik.com.tr/radyo/kral-fm",
+
+    "titleSHOWRADYO": "ID_SHOWRADYO",
+    "linkSHOWRADYO": "https://edge1.radyotvonline.net/shoutcast/play/showradyo",
+    "linkYayinAkisiSHOWRADYO": "https://showradyo.com.tr/yayin-akisi/",
+    "linkWatchOriginalSHOWRADYO": "https://showradyo.com.tr/",
+    
+    "titlePOWERFM": "ID_POWERFM",
+    "linkPOWERFM": "https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8",
+    "linkYayinAkisiPOWERFM": "https://www.powerapp.com.tr/yayin-akisi/powerfm/",
+    "linkWatchOriginalPOWERFM": "https://www.powerapp.com.tr/powerfm/",
+
+    "titleTRTFM": "ID_TRTFM",
+    "linkTRTFM": "https://trt.radyotvonline.net/trtfm",
+    "linkYayinAkisiTRTFM": "https://radyo.trt.net.tr/yayin-akisi/",
+    "linkWatchOriginalTRTFM": "https://radyo.trt.net.tr/kanallar/trt-fm",
+
+    "titleNTVRADYO": "ID_NTVRADYO",
+    "linkNTVRADYO": "https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8",
+    "linkYayinAkisiNTVRADYO": "https://www.ntvradyo.com.tr/yayin-akisi",
+    "linkWatchOriginalNTVRADYO": "https://www.ntvradyo.com.tr/canli-dinle",
+
+    "titleDIYANETRADYO": "ID_DIYANETRADYO",
+    "linkDIYANETRADYO": "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/mt.m3u8",
+    "linkYayinAkisiDIYANETRADYO": "https://diyanetradyo.com/yayin-akisi",
+    "linkWatchOriginalDIYANETRADYO": "https://diyanetradyo.com/canli-dinle",
+
+    "title": "ID_",
+    "link": "",
+    "linkYayinAkisi": "",
+    "linkWatchOriginal": ""
 }
