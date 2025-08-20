@@ -242,6 +242,11 @@
     "linkYayinAkisiDIYANETRADYO": "https://diyanetradyo.com/yayin-akisi",
     "linkWatchOriginalDIYANETRADYO": "https://diyanetradyo.com/canli-dinle",
 
+    "titleRADYOSPOR": "ID_RADYOSPOR",
+    "linkRADYOSPOR": "https://live.dgn.net.tr/stream_origin/radyospor/chunklist.m3u8",
+    "linkYayinAkisiRADYOSPOR": "https://radyospor.com/yayin-akisi",
+    "linkWatchOriginalRADYOSPOR": "https://radyospor.com/",
+    
     "title": "ID_",
     "link": "",
     "linkYayinAkisi": "",
