@@ -246,6 +246,41 @@
     "linkRADYOSPOR": "https://live.dgn.net.tr/stream_origin/radyospor/chunklist.m3u8",
     "linkYayinAkisiRADYOSPOR": "https://radyospor.com/yayin-akisi",
     "linkWatchOriginalRADYOSPOR": "https://radyospor.com/",
+
+    "titleTV360": "ID_TV360",
+    "linkTV360": "http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+    "linkYayinAkisiTV360": "https://www.tv360.com.tr/haftalik-yayin-akisi",
+    "linkWatchOriginalTV360": "https://www.tv360.com.tr/canli-yayin",
+
+    
+    "titleDMAX": "ID_DMAX",
+    "linkDMAX": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8",
+    "linkYayinAkisiDMAX": "https://www.dmax.com.tr/yayin-akisi",
+    "linkWatchOriginalDMAX": "https://www.dmax.com.tr/canli-izle",
+
+    
+    "titleTGRTHABER": "ID_TGRTHABER",
+    "linkTGRTHABER": "https://canli.tgrthaber.com/tgrt.m3u8",
+    "linkYayinAkisiTGRTHABER": "https://www.tgrthaber.com/yayin-akisi",
+    "linkWatchOriginalTGRTHABER": "https://www.tgrthaber.com/canli",
+
+    
+    "titleTBMMTV": "ID_TBMMTV",
+    "linkTBMMTV": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8",
+    "linkYayinAkisiTBMMTV": "https://www.tbmm.gov.tr/Gundem/GenelKurulGundemi",
+    "linkWatchOriginalTBMMTV": "https://tv.tbmm.gov.tr/",
+
+    
+    "titleCNBCE": "ID_CNBCE",
+    "linkCNBCE": "https://www.youtube.com/live/XihyuKSyUD0?si=2HuvxO9aKlpoQCb0",
+    "linkYayinAkisiCNBCE": "https://www.cnbce.com/yayin-akisi",
+    "linkWatchOriginalCNBCE": "https://www.youtube.com/live/XihyuKSyUD0?si=2HuvxO9aKlpoQCb0",
+
+    
+    "titleALJAZEERA": "ID_ALJAZEERA",
+    "linkALJAZEERA": "https://live-hls-web-aje.getaj.net/AJE/master.m3u8",
+    "linkYayinAkisiALJAZEERA": "https://www.aljazeera.com/schedule",
+    "linkWatchOriginalALJAZEERA": "https://www.aljazeera.com/live",
     
     "title": "ID_",
     "link": "",
